@@ -1,0 +1,7 @@
+p+h3{
+    color: beige;
+}
+/* if we write parent chlid thrn like this  */
+p h3{
+    color: beige;
+}

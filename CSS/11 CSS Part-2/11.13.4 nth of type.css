@@ -1,0 +1,4 @@
+/* select nth paragraph or box  */
+div:nth-of-type(2n){
+    background-color: blanchedalmond;
+}

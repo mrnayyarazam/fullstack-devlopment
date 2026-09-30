@@ -1,0 +1,4 @@
+/* To select the whole web page, we use the universal selector. */
+*{
+    margin: 0;
+}

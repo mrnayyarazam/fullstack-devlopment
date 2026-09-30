@@ -1,0 +1,15 @@
+/* A keyboard added to a selector that lets you style a specific of tht part  */
+/* For FIRST LETTER  */
+h1::first-letter{
+    color: green;
+}
+
+/* For First line  */
+p::first-line{
+    color: purple;
+}
+
+/* white slect any text for copy or something else  */
+p::selection{
+    background-color: yellow;
+}

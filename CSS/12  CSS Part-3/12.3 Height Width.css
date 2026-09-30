@@ -1,0 +1,10 @@
+/* By default it sets the content area height of the element */
+div{
+    height: 100px;
+}
+
+
+/* WIdth  */
+div{
+    width: 300px;
+}

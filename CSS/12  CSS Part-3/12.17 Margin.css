@@ -1,0 +1,31 @@
+/* To set spacing on the outside of border or creating a space between two box  */
+div{
+    margin-left: 20px;
+}
+
+div{
+    margin: 0; /*To remove by default margin like from header */
+}
+
+
+/* 12.17.1 Shorthand Rule */
+
+/* For all four sides */
+div{
+    margin:50px;
+}
+
+/* Top and bottom || left and right */
+div{
+    margin:1px 2px;
+}
+
+/* Top||Left and right|| bottom */
+div{
+   margin:1px 2px 3px;
+}
+
+/* Top || right || bottom || left */
+div{
+    margin:1px 2px 3px 4px;
+}

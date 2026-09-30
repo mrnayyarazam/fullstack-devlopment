@@ -1,0 +1,27 @@
+/* Padding is the distance between element and boder */
+div{
+    padding-left:50px
+}
+
+
+/* 12.16.1 Shorthand Rule */
+
+/* For all four sides */
+div{
+    padding:50px;
+}
+
+/* Top and bottom || left and right */
+div{
+    padding:1px 2px;
+}
+
+/* Top||Left and right|| bottom */
+div{
+    padding:1px 2px 3px;
+}
+
+/* Top || right || bottom || left */
+div{
+    padding:1px 2px 3px 4px;
+}

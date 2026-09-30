@@ -1,0 +1,6 @@
+/* ID selector: an element based on the value of the element's ID attribute.
+ You must be sure every ID is unique and different from others.  */
+#singup{
+    background-color: aliceblue;
+}
+/* Here, # sign-up page add selector  */

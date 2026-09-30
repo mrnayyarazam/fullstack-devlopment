@@ -1,0 +1,4 @@
+/* Selectors element based on the presence or value of a given attribute. */
+input[type="text"]{
+    color: blue;
+}

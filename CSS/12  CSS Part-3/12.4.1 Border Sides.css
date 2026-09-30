@@ -1,0 +1,7 @@
+/* To control an individual side of the box  */
+div{
+    border-left-color: whitesmoke;
+    border-right-style: dashed ;
+    border-top-width: 0.1px;
+    border-bottom-left-radius: 0%;
+}

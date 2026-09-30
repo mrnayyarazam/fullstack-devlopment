@@ -1,0 +1,5 @@
+/* You just do round the corners of an element's outer border edge  */
+div{
+    border-radius: 50%;
+    border-bottom-left-radius: 50%;
+}

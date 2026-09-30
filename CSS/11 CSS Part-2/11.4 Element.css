@@ -1,0 +1,4 @@
+/* Element selectors are all elements of the same type.  */
+h1 h3{
+    color: red;
+}

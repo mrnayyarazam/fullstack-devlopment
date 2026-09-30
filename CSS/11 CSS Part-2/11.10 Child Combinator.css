@@ -1,0 +1,4 @@
+/* selectt all buttons which are direct children of spam  */
+div>input{
+background-color: aliceblue;
+}

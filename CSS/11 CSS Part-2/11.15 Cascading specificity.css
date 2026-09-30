@@ -1,0 +1,11 @@
+/* if two or more proparty are apply to the same element then which will be apply  */
+h2{
+    background-color: yellow;
+}
+h2{
+    background-color: blue;
+}
+/* hear last one Blue Proparty will be apply  */
+
+
+/* inline>id>class>element  */

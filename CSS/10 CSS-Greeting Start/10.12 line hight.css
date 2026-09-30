@@ -1,0 +1,9 @@
+/* control the height of line  */
+#h1{
+    line-height: normal;
+    line-height: 2.5;
+}
+/* letter space control the horizantal spacing  */
+#H1{
+    letter-spacing: normal;
+}
