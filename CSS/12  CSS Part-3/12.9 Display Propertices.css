@@ -1,0 +1,5 @@
+/* We can change inline properties to block and block to inline
+ heading is a block but if I write (Display propertie) it will become inline  */
+ h1{
+    display: inline-block;
+ }

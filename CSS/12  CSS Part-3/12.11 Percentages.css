@@ -1,0 +1,6 @@
+/* It is often used to define a size as related to an element's respect of
+ parent object  */
+ div{
+    width: 33.33%;
+    margin-left: 50%;
+ }
